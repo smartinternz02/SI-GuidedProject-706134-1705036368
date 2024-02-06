@@ -67,4 +67,4 @@ To accomplish this, we have to complete all the activities listed below:
 
 ## Project Explanation Video Recording 
 Link:
-https://drive.google.com/file/d/1Cp5WltJtqSuAlPlHve0Ut3fIGXJB_QgE/view?usp=drive_link
+https://youtu.be/H52bT-g6Ies
