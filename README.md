@@ -4,11 +4,9 @@ Name- Chandan Kumar Mallick
 
 SBID: SB20230724064
 
-remote add origin https://github.com/smartinternz02/SI-GuidedProject-706134-1705036368
+remote add origin https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693
 
 SmartInternz Profile:- https://smartinternz.com/student-profile/feed/U0IyMDIzMDcyNDA2NA==
-
-Project Demo Video:- [YouTube](https://youtu.be/H52bT-g6Ies)
 
 
 ## Amazon
@@ -63,8 +61,3 @@ To accomplish this, we have to complete all the activities listed below:
   
 ## Project Structure:
 ![image](https://github.com/smartinternz02/SI-GuidedProject-713053-1706296693/assets/58482473/78f4622c-99a5-468c-a380-a8f75a91f8da)
-
-
-## Project Explanation Video Recording 
-Link:
-https://youtu.be/H52bT-g6Ies
